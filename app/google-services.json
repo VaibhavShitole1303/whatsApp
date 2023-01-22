@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243783910981",
+    "project_id": "vswhatsapp",
+    "storage_bucket": "vswhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243783910981:android:5cad6ee8cb35fa586ac52c",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243783910981-te54h3rhbg4fabdrkiid5bk11bq3h8f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldRBlZCmS7iqtSQt0hnGUMzT8RjjzMK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243783910981-te54h3rhbg4fabdrkiid5bk11bq3h8f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
